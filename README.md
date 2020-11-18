@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Gustavo Pchek. I have been a programmer for 9 years, and I work professionaly as web developer since 2014, mainly with Laravel and Ruby on Rails.
+
+I consider myself a Backend Developer, and I have an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
+
+I also know a bit of Vue.js and I am currently learning Golang.
+
+https://www.gustavopchek.com
 
 <!--
 **gustavopchek/gustavopchek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
