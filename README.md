@@ -2,7 +2,7 @@
 
 My name is Gustavo Pchek. I have been a software engineer since 2014, and in the past few years I dove deep into backend technologies, specially Ruby and Rails stack.
 
-I also have an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
+Having 5 years of remote work experience, also have an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gustavopchek/backend-development)
 
