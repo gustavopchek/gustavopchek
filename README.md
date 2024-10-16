@@ -1,10 +1,12 @@
 ### Hello! 👋
 
-My name is Gustavo Pchek. I have been a programmer for 9 years, and I work professionaly as web developer since 2014, mainly with Ruby on Rails and Laravel.
+My name is Gustavo Pchek. I have been a software engineer since 2014, and in the past few years I dove deep into backend technologies, specially Ruby and Rails stack.
 
-I currently work as a Backend Engineer, and I have an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
+I also have an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/gustavopchek/backend-development)
+
+https://www.linkedin.com/in/gustavopchek/
 
 https://www.gustavopchek.com
 
