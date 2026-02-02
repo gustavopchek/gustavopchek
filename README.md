@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Gustavo Pchek. I have been a software engineer since 2014, and in the past few years I dove deep into backend technologies, specially Ruby and Rails stack.
+My name is Gustavo Pchek Kwaczynski. Working with Software Engineering since 2014, and I have extensible knowledge of backend development, specially using Ruby and Rails stack.
 
 Having 6 years of remote work experience, I also hold an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
 
@@ -8,7 +8,7 @@ Having 6 years of remote work experience, I also hold an undergraduate degree in
 
 https://www.linkedin.com/in/gustavopchek/
 
-https://www.gustavopchek.com
+https://www.gustavopchek.com/dev
 
 <!--
 **gustavopchek/gustavopchek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
