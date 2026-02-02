@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Gustavo Pchek Kwaczynski. Working with Software Engineering since 2014, and I have extensible knowledge of backend development, specially using Ruby and Rails stack.
+My name is Gustavo Pchek Kwaczynski. Working with Software Engineering since 2014, I have extensible knowledge of backend development, specially using Ruby and Rails stack.
 
 Having 6 years of remote work experience, I also hold an undergraduate degree in Internet Systems Technology from Federal Technological University of Paraná (UTFPR) - Brazil.
 
